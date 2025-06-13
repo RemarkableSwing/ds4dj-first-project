@@ -1,2 +1,2 @@
-# Exciting things about tech (ds4dj-first-project)
-My name is Emmanuel Charles Ndlela. Technology is ever-expanding and evolving from simper to more complex functionalties, charging tomorrow with energetic excitement as to what is in store for people exposed to tech.
+# Exciting Things About Tech (ds4dj-first-project)
+My name is Emmanuel Charles Tinyiko Ndlela. Technology is ever-expanding, and evolving from simple, to increasingly more effective functionalties at an exponential scale, this makes one wonder... "What's next"?. Hopefully the answer to that question means benevolence for humanity, and nature at large. Here's to my first "commit" on Github. Hello World!
